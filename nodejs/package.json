@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-elk",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "add-nevo-food": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.7.1",
+    "csv-parse": "^4.9.1",
+    "node-fetch": "^2.6.0"
+  }
+}
